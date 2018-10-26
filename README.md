@@ -1,2 +1,2 @@
-# osx_setup
+# Housekeeping
 configurations etc
